@@ -1,5 +1,7 @@
 # Curso MongoDB - Facultad de Sistemas
 
+Assets de un curso de `MongoDB` impartido en la Facultad de Sistemas por el ingeniero Urbano Flores durante el semetre de Enero-Junio 2021.
+
 ## Clase 1
 
 - No relacional
@@ -129,7 +131,7 @@
 - Operador `$where`
 - Índices
 
-## Clase 4
+## Clase 4
 
 - Tipos de Datos
   - BSON
