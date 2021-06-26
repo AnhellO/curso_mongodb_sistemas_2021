@@ -1,0 +1,21 @@
+{
+  "name": "curso-mongodb-sistemas",
+  "version": "1.0.0",
+  "description": "Curso para certificación de MongoDB en la Facultad de Sistemas de la UAdeC",
+  "main": "index.js",
+  "dependencies": {
+    "faker": "^5.5.3",
+    "underscore": "^1.13.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongodb",
+    "json",
+    "node"
+  ],
+  "author": "@AnhellO",
+  "license": "MIT"
+}

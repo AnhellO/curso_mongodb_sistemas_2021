@@ -1,0 +1,25 @@
+{
+  "name": "salon_de_fiestas",
+  "version": "1.0.0",
+  "description": "REST API para una app de salón de fiestas que utiliza MongoDB como storage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongodb",
+    "express",
+    "fiestas",
+    "app",
+    "node"
+  ],
+  "author": "@AnhellO",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dummy-json": "^3.0.4",
+    "express": "^4.17.1",
+    "faker": "^5.5.3",
+    "mongoose": "^5.12.15"
+  }
+}
